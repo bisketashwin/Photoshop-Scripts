@@ -1,0 +1,12 @@
+{"Market Assets":"General"
+"Treasure Rewards and Containers":"General"
+"Animal Pen":"General"
+"Big Buildable":"Exclusive"
+"Harvest Buildable":"Exclusive"
+"Tile Unlock Assets":"General"
+"Crops":"General"
+"Vehicles":"General"
+"Paid Gifting":"Exclusive"
+"Early Access":"Exclusive"
+"Tree + Orchard":"General"
+"Eilte Horses":"Exclusive"}

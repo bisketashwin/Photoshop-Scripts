@@ -1,0 +1,2 @@
+ import re
+ "%&*I don't know if this is the text".lstrip("!@#$%^&*()")
