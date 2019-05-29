@@ -1,0 +1,1 @@
+﻿#target photoshop$.writeln(getLayerColourByID(7));  function getLayerColourByID( ID ) {       var ref = new ActionReference();       ref.putProperty( charIDToTypeID("Prpr") ,stringIDToTypeID('color'));       ref.putIdentifier(charIDToTypeID( "Lyr " ), ID );      return typeIDToStringID(executeActionGet(ref).getEnumerationValue(stringIDToTypeID('color')));   };

@@ -1,0 +1,1 @@
+﻿var aLay = app.activeDocument.activeLayer;  if(aLay.textItem && aLay.selectiveColor= "") {      //if(aLay.textItem && aLay.textItem.contents != "") {    var changedText= aLay.textItem.contents.replace (/.+/, "Samba in RIO");  aLay.textItem.contents = changedText;  aLay.applyStyle("Style 2");}  
